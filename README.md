@@ -19,3 +19,22 @@ i will use most cheap games as a base,
 Half-Life 1 = Noticeable low quality.
 Team Fortress 2 = high quality, but when too close you notice pixelation.
 Counter-Strike 2 = HD, Almost innoticeable pixelation
+---------------------------------want to make my own!----------------------------
+to do this, you need to download vtfedit, i will leave a zip :P
+[vtfEdit.zip](https://github.com/Altrrx/vmt-vtf/files/13396711/vtfEdit.zip)
+author : Neil Jedrzejewski & Ryan Gregg 
+1 . you need a png file, or any compatible format
+2 . press the import button "File > Import"
+3 . select yo epic image!!
+4 . oke, you need a normalmap? check the "Generate Normal Map" checkbox
+5 . press ok
+6 . save the texture
+L a . If you are saving your normalmap, name it "normal" or "example_normal_map"
+7 . go to the tools tab and press Create vmt file.
+L a . to make it easier, you must be loaded in the texture itself, not the normalmap
+8 . (Optional) Select your normal.vtf file as the normalmap
+9 . Select the texture itself as the base texture
+10 . (optional) in the options tab, select the material with "Surface 1" tab
+11 . mount your vmt into the material folder, make sure you got a custom folder for it, or it might end up messy
+12 . If you have a normalmap file named as "normal" and you plan to make all the textures normalmap files be named "normal" then make folders for the textures.
+13 . make a map with the textures and preview how the textures look.
