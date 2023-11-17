@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/fr_glass/frosted_glass"
+	"$normalmap" "custom/fr_glass/normal"
+	"$surfaceprop" "Ice"
+	"$surfaceprop2" "Glass"
+	"$additive" 1
+	"$translucent" 1
+}

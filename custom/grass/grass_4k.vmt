@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/grass/grass"
+	"$normalmap" "custom/grass/normal"
+	"$surfaceprop" "Wood_Panel"
+}

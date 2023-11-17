@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/hdbricks/bricks_hd"
+	"$normalmap" "custom/hdbricks/normal"
+	"$surfaceprop" "Brick"
+	"$surfaceprop2" "Concrete_Block"
+	"$additive" 0
+	"$nocull" 1
+}

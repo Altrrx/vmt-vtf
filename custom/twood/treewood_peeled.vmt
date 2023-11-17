@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/twood/treewood"
+	"$normalmap" "custom/twood/normal"
+	"$surfaceprop" "WoodWood_Lowdensity"
+	"$surfaceprop2" "Watermelon"
+}
