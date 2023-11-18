@@ -66,5 +66,7 @@ L a . to make it easier, you must be loaded in the texture itself, not the norma
 10 . (optional) in the options tab, select the material with "Surface 1" tab
 
 11 . mount your vmt into the material folder, make sure you got a custom folder for it, or it might end up messy
+
 12 . If you have a normalmap file named as "normal" and you plan to make all the textures normalmap files be named "normal" then make folders for the textures.
+
 13 . make a map with the textures and preview how the textures look.
