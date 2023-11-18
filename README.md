@@ -78,4 +78,6 @@ to make a map, you might want to see your source game files.
 L a . go to the "common/sourcegame/bin" folder, not the "common/sourcegame/gamefolder/bin" folder          
 2. then go until you find "hammer.exe"
 3. watch a youtube totoreel! lel
-# Tutorial done. have fun!
+# Supporting me
+1. fork this project
+2. request to combine your fixes with the original
