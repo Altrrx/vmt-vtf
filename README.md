@@ -80,4 +80,4 @@ L a . go to the "common/sourcegame/bin" folder, not the "common/sourcegame/gamef
 3. watch a youtube totoreel! lel
 # Supporting me
 1. fork this project
-2. request to combine your fixes with the original
+2. do a pull request haha funni
