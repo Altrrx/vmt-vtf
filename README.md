@@ -74,7 +74,7 @@ L a. to make it easier, you must be loaded in the texture itself, not the normal
 # Extras by altrrx :P
 to make a map, you might want to see your source game files.
 
-1. go to the bin Folder
+1. go to the bin Folder    
 L a . go to the "common/sourcegame/bin" folder, not the "common/sourcegame/gamefolder/bin" folder          
 2. then go until you find "hammer.exe"
 3. watch a youtube totoreel! lel
