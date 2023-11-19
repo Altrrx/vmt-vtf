@@ -1,4 +1,4 @@
-# vmt-vtf
+# vmt-vtf "incmap"
 
 My source engine textures
 
@@ -76,6 +76,8 @@ L a. to make it easier, you must be loaded in the texture itself, not the normal
 2. go to the "common/sourcegame/bin" folder, not the "common/sourcegame/gamefolder/bin" folder          
 3. then go until you find "hammer.exe"
 4. watch a youtube totoreel! lel
+# Mounting The Map "incmap branch"
+1. look for the map folder in your game folder
 # Supporting me
 1. fork this project
 2. do a pull request haha funni
