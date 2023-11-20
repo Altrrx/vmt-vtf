@@ -1,6 +1,9 @@
-# vmt-vtf
-
-My source engine textures
+# vmt-vtf "incmap branch"
+Source map and textures
+# incmap mount map
+1. look for the map folder in the game folder
+2. drag the "house.bsp" file into map folder
+3. enjoy!
 
 # Instructions
 Requirements : Steam, A Source Game (not source 2 nor goldsource) - I Will list them later.
