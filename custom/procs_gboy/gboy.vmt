@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "custom/procs_gboy/gboy"
-	"$normalmap" "custom/procs_gboy/normal"
-	"$surfaceprop" "Computer"
-	"$translucent" 1
-}

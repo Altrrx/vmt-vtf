@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "custom/tlight/tile_light"
-	"$normalmap" "custom/tlight/normal"
-	"$surfaceprop" "Wood_Solid"
-}

@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "custom/watercl/cl_water"
-	"$normalmap" "custom/watercl/normal"
-	"$surfaceprop" "Water"
-	"$surfaceprop2" "Water"
-	"%keywords" "Water"
-}
